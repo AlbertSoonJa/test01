@@ -30,5 +30,6 @@ README 파일이란?
 <https://www.naver.com/>
 
 [네이버](https://www.naver.com/).
+![프로플 이미지](./푸바오.jpg)
 
 [네이버](https://www.naver.com/, "네이버홈페이지").
